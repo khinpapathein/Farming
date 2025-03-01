@@ -1,0 +1,42 @@
+#my_navbar{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    background-color: #359c46;
+
+}
+.mybox{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.mybox:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 7px 15px;
+}
+input[type="number"]
+{
+    font-size: 11px;
+    height: 37px;
+}
+.mycalculate_btn:hover{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 5px 10px;
+}
+
+
+/* discussion */
+.mydiv{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.mydiv p{
+    margin: 0;
+    font-size: 15px;
+}
+
+
+/* myprofile */
+.mydashboard_div{
+    margin: 3%;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 20%;
+    height: auto;
+}
